@@ -1,0 +1,5 @@
+CALL_METHOD
+    Address("component_tdx_2_1crqp4azwhgymxs57xlv4uje0xk586t0h9rvch8etfpw2lywf3w6csk")
+    "update_data"
+    Decimal("1")
+;

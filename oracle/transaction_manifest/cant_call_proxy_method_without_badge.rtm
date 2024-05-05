@@ -1,0 +1,6 @@
+CALL_METHOD
+    Address("component_tdx_2_1cz04880nauk42t5ckne2l2a4u5dpl3p9vuuac3vsg9prmk0em0uaww")
+    "call_method"
+    "get_derived_svalue"
+    Tuple()
+;

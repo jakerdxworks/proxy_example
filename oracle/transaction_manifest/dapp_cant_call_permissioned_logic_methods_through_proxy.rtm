@@ -1,0 +1,6 @@
+CALL_METHOD
+    Address("component_tdx_2_1cpwu0xnux2g68uj049qmjttgqkzahkkg8733duxlz238qk5297fp7l")
+    "call_method"
+    "validate_and_update_data"
+    Decimal("1")
+;
